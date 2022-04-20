@@ -1,0 +1,4 @@
+instr = input()
+
+print(instr)
+
