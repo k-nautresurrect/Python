@@ -6,6 +6,9 @@ __pycache__/
 # C extensions
 *.so
 
+# symlink
+./lib64/
+
 # Distribution / packaging
 .Python
 build/
